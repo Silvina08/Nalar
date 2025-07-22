@@ -1,4 +1,4 @@
-print("hallo vina")
+print("hallo guys")
 print("ketik nama kamu")
 nama = input("siapa namamu? ")
 print("halo", nama)
